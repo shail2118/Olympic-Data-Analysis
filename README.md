@@ -2,4 +2,4 @@
 A Streamlit web application for the analysis of olympics dataset
 
 
-Live Demo: https://olympicsanalysisweb.herokuapp.com
+Live website: https://olympicsanalysisweb.herokuapp.com
